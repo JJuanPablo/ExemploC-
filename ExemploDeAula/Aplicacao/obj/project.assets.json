@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Área de Trabalho\\Senai 2S\\Caina\\ExemploDeAula\\Aplicacao\\Aplicacao.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Área de Trabalho\\Senai 2S\\Caina\\ExemploC-\\ExemploDeAula\\Aplicacao\\Aplicacao.csproj",
       "projectName": "Aplicacao",
-      "projectPath": "C:\\Users\\juanp\\OneDrive\\Área de Trabalho\\Senai 2S\\Caina\\ExemploDeAula\\Aplicacao\\Aplicacao.csproj",
+      "projectPath": "C:\\Users\\juanp\\OneDrive\\Área de Trabalho\\Senai 2S\\Caina\\ExemploC-\\ExemploDeAula\\Aplicacao\\Aplicacao.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\OneDrive\\Área de Trabalho\\Senai 2S\\Caina\\ExemploDeAula\\Aplicacao\\obj\\",
+      "outputPath": "C:\\Users\\juanp\\OneDrive\\Área de Trabalho\\Senai 2S\\Caina\\ExemploC-\\ExemploDeAula\\Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
