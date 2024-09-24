@@ -6,10 +6,15 @@ Medico m1 = new Medico("Dr.Daniel");
 // Relação De Agregação
 
 Universidade universidade = new Universidade();
-Aluno aluno1 = new Aluno("Juan");
+Aluno aluno1 = new Aluno("Pablo");
 
 Console.WriteLine($"Relação de Agregação: ");
+//Da para fazer assim tambem:
+//Mas, assim, voce tera que criar uma instancia para cada aluno.
 universidade.AdicionarAluno(aluno1);
+
+universidade.AdicionarAluno(new Aluno("Juan"));
+universidade.AdicionarAluno(new Aluno("Pedro"));
 universidade.MostrarAluno();
 
 // Relaçao de Composição

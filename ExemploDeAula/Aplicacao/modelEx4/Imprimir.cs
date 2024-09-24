@@ -1,3 +1,3 @@
 interface Imprimir{
-    void imprir();
+    void Imprimir();
 }
